@@ -1,4 +1,5 @@
 # L4D2 简易数据库
+## SourceMod version 1.11.0.6911
 ## 食用方法：
 * database.cfg放入sourcemod/config文件夹内
 * 根据需要，选择远程数据库（mysql），本地数据库（sqlite），请在driver处填写合适的引擎
